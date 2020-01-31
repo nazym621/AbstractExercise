@@ -1,0 +1,11 @@
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.exe
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.deps.json
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.runtimeconfig.json
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.runtimeconfig.dev.json
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.dll
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.pdb
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.csprojAssemblyReference.cache
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.AssemblyInfoInputs.cache
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.AssemblyInfo.cs
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.dll
+C:\Users\sanaz\OneDrive\Desktop\repos\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.pdb
